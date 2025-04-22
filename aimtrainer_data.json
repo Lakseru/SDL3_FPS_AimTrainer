@@ -1,0 +1,12 @@
+{
+  "sensitivity": 0.029647,
+  "fov": 103.167,
+  "challengeMode": true,
+  "cross_r": 0,
+  "cross_g": 255,
+  "cross_b": 255,
+  "cross_gap": 3,
+  "cross_len": 10,
+  "gridshot_high_scores": [123],
+  "tracking_high_scores": []
+}
